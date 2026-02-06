@@ -134,7 +134,7 @@ pip install -r requirements.txt
 
 - opencv-python
 - numpy
-- onnxruntime
+- onnxruntime (Also Download ONNX embeder [here](https://huggingface.co/facefusion/models-3.0.0/blob/main/arcface_w600k_r50.onnx))
 - mediapipe
 - scipy
 
