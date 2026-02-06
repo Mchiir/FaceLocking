@@ -1,0 +1,46 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# === Virtual Environments ===
+.venv/
+venv/
+env/
+
+# === Model / Data Artifacts ===
+data/db/
+data/enroll/
+models/*.onnx
+# models/*.pth
+# models/*.pt
+
+# === OS / Editor ===
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# === Logs & Outputs ===
+*.log
+*.tmp
+*.cache
+
+# === Jupyter ===
+.ipynb_checkpoints/
+
+# === Build / Distribution ===
+build/
+dist/
+*.egg-info/
+
+# === Media Files ===
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.jpg
+*.png
+*.jpeg
