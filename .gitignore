@@ -12,6 +12,7 @@ env/
 # === Model / Data Artifacts ===
 data/db/
 data/enroll/
+data/history/
 models/*.onnx
 # models/*.pth
 # models/*.pt
